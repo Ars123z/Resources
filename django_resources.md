@@ -5,7 +5,6 @@ Written Resources
 [Devdocs Reference](https://devdocs.io/django~5.0/)
 [Django Documentation](https://docs.djangoproject.com/en/5.0/)
 
-==============================
 
 Videos Resources
 ============================

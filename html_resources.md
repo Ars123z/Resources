@@ -6,9 +6,8 @@ Written Resources
 4. [HTML Documentation](https://html.spec.whatwg.org/multipage/)
 5. [Freecodecamp HTML Course](https://www.freecodecamp.org/news/html-crash-course/)
 6. [Devdocs HTML reference](https://devdocs.io/html/)
- ===========================
+
 
  Video Resources
  ============================
 1. [Freecodecamp HTML Course](https://www.youtube.com/watch?v=916GWv2Qs08&t=3s)
- =============================

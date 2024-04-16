@@ -6,7 +6,6 @@ Written Resources
 4. [Devdocs CSS Reference](https://devdocs.io/css/)
 5. [Freecodecamp CSS Course](https://www.freecodecamp.org/news/learn-css/)
 
-=========================
 Video Resources
 ====================
 [Freecodecamp CSS Video Course](https://www.youtube.com/watch?v=OXGznpKZ_sA)
