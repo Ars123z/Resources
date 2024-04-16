@@ -9,7 +9,7 @@ Design Insperation
 ======================================
 1. [landing pages](https://landing.gallery)
 2. [Design Reference](https://refero.design)
-3. [Design lookup](http://lookup.design)
+3. [Design lookup](https://lookup.design)
 4. [flowstep design](https://flowstep.design)
 5. [Dark-mode Design](https://darkmodedesign.com)
 6. [Design](https://webdesign-inspiration.com)
