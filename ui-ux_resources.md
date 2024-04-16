@@ -2,7 +2,7 @@ Figma Resources
 =====================================
 1. [figma documentation](https://help.figma.com)
 2. [figna tips](https://awesomefigtips.com)
-3. [All Keyboard Shortcuts Compilation](hhtps://shortcuts.design)
+3. [All Keyboard Shortcuts Compilation](https://shortcuts.design)
 4. [Figma Components](https://figmacomponents.com)
 
 Design Insperation
